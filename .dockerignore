@@ -1,0 +1,23 @@
+# Ignore Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment & logs
+.env
+*.log
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore common folders
+.vscode/
+.idea/
+node_modules/
+*.db
+
+# Ignore text/docs
+*.txt
+*.md
